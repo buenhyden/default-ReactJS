@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint",
+    "humao.rest-client",
+    "aron-bond.better-comments",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "kisstkondoros.vscode-codemetrics",
+    "mikestead.dotenv",
+    "cschlosser.doxdocgen",
+    "usernamehw.errorlens",
+    "ldez.ignore-files",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "ritwickdey.liveserver",
+    "emilast.logfilehighlighter",
+    "xyz.local-history",
+    "donjayamanne.githistory",
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "huizhou.githd",
+    "codezombiech.gitignore",
+    "naumovs.color-highlight",
+    "aaron-bond.better-comments",
+    "davidanson.vscode-markdownlint",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml"
+  ]
+}
